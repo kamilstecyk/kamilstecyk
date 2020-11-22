@@ -2,7 +2,7 @@
 
 
 
-Moja strona githubpages: \n
+Moja strona githubpages: 
 https://kamilstecyk.github.io/
 
 
