@@ -26,6 +26,8 @@ My interesting fork:
   displayed on a special website. The application owner also has the ability to prepare products for purchases thanks to code scans and generate summaries  
   based on them. The application makes it much easier to run a wholesaler
   
+- Library APP ( C# Winform Microservices Architecture ) [see code](https://github.com/kamilstecyk/projects/tree/master/LibraryProject) :speech_balloon:
+  
 - Telegram Bot ( NODE JS )  [see app screenshot](https://kamil-stecyk.ct8.pl/projectsImg/telegram_bot.PNG) 🌎 [see code](https://github.com/kamilstecyk/happyBotTelegram) :speech_balloon:
 
 - Intelligent Weather Station (ESP32) with website for displaying results by MQTT  (HTML + CSS + JS + NODE JS + ESP-IDF)  [see app screenshot](https://kamil-stecyk.ct8.pl/projectsImg/iot.png) 🌎 [see code](https://github.com/kamilstecyk/IOT_2022_thermometer) :speech_balloon:
