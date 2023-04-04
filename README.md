@@ -8,3 +8,6 @@ My website:
 My interesting fork:
 [see](https://github.com/kamilstecyk/SMARTS)
 
+
+## Moje własne projekty
+
