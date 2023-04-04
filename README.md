@@ -9,5 +9,6 @@ My interesting fork:
 [see](https://github.com/kamilstecyk/SMARTS)
 
 
-## Moje własne projekty
+### Moje własne projekty
 
+- Restaurant Project with CMS (Angular + Firebase) [see deployed app](http://restauracjadosyta.ct8.pl/)🌎 [see code](https://github.com/kamilstecyk/project_restaurant) :speech_balloon:
