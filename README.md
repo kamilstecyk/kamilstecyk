@@ -25,6 +25,8 @@ My interesting fork:
   be printed and labeled. Thanks to this code, anyone can scan the item to see details such as net price, gross price, type of stone, etc. , which is     
   displayed on a special website. The application owner also has the ability to prepare products for purchases thanks to code scans and generate summaries  
   based on them. The application makes it much easier to run a wholesaler
+
+- Machine Learning University Classes ( PYTHON ) [see code](https://github.com/kamilstecyk/ML) :speech_balloon:
   
 - Library APP ( C# Winform Microservices Architecture ) [see code](https://github.com/kamilstecyk/projects/tree/master/LibraryProject) :speech_balloon:
   
