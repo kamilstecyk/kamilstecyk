@@ -11,6 +11,8 @@ My interesting fork:
 
 ### My own bigger projects
 
+- AGH IOS App (SwiftUi) [see code](https://github.com/kamilstecyk/MyAHGApp) :speech_balloon:
+
 - Restaurant Project with CMS (Angular + Firebase) [see deployed app](http://restauracjadosyta.ct8.pl/) 🌎 [see code](https://github.com/kamilstecyk/project_restaurant) :speech_balloon:
 
 - TODO APP ( Angular Material + Bootstrap + Json-Server ) [see deployed app](https://todo-angular-app-iota.vercel.app/) 🌎 [see code](https://github.com/kamilstecyk/ToDoAngularApp) :speech_balloon:
